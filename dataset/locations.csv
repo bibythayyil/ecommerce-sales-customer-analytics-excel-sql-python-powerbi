@@ -1,0 +1,9 @@
+Location_ID,City,State,Region,Market_Size
+L001,Bengaluru,Karnataka,East,Medium
+L002,Mumbai,Maharashtra,West,High
+L003,Delhi,Delhi,South,High
+L004,Hyderabad,Telangana,West,High
+L005,Chennai,Tamil Nadu,West,Medium
+L006,Pune,Maharashtra,West,Low
+L007,Kochi,Kerala,West,Medium
+L008,Kolkata,West Bengal,East,Medium
