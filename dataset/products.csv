@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Unit_Price,In_Stock
+P0001,Wireless Earbuds,Electronics,-50.0,No
+P0002,Smart Watch,Electronics,2787.0,Yes
+P0003,Bluetooth Speaker,Electronics,-50.0,Yes
+P0004,Power Bank,Electronics,2827.0,No
+P0005,Keyboard,Electronics,4253.0,Yes
+P0006,Mouse,Electronics,3248.0,Yes
+P0007,T-Shirt,Fashion,4860.0,No
+P0008,Jeans,Fashion,-50.0,Yes
+P0009,Sneakers,Fashion,3170.0,Yes
+P0010,Handbag,Fashion,-50.0,No
+P0011,Jacket,Fashion,4260.0,Yes
+P0012,Sunglasses,Fashion,3850.0,Yes
+P0013,Mixer Grinder,Home & Kitchen,4289.0,Yes
+P0014,Cookware Set,Home & Kitchen,4343.0,Yes
+P0015,Bedsheet,Home & Kitchen,2161.0,Yes
+P0016,Storage Box,Home & Kitchen,-50.0,Yes
+P0017,Water Bottle,Home & Kitchen,2230.0,Yes
+P0018,Coffee Maker,Home & Kitchen,4722.0,Yes
+P0019,Face Wash,Beauty,3750.0,No
+P0020,Moisturizer,Beauty,4604.0,Yes
+P0021,Shampoo,Beauty,4864.0,No
+P0022,Perfume,Beauty,3573.0,Yes
+P0023,Lipstick,Beauty,2974.0,No
+P0024,Hair Dryer,Beauty,2914.0,Yes
+P0025,Yoga Mat,Sports,2832.0,No
+P0026,Cricket Bat,Sports,792.0,Yes
+P0027,Football,Sports,4776.0,Yes
+P0028,Dumbbells,Sports,2349.0,Yes
+P0029,Running Shoes,Sports,3085.0,Yes
+P0030,Sports Bag,Sports,1560.0,No
